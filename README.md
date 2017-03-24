@@ -2,5 +2,9 @@
 Exploring Git
 
 
+this is the original
+=======
+
 
 this is trunk
+
